@@ -16,9 +16,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BrdH7940&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<a href="https://github.com/BrdH7940/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrdH7940&repo=github-readme-stats&theme=react" />
-</a>
-<a href="https://github.com/BrdH7940/BrdH7940.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrdH7940&repo=anuraghazra.github.io&theme=react" />
-</a>
+| <a href="https://github.com/BrdH7940/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BrdH7940&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="BrdH7940's github stats" /></a> | <a href="https://github.com/BrdH7940/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrdH7940&layout=compact&theme=react&hide_border=true" /></a> |
