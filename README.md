@@ -52,8 +52,8 @@
 
 <h2 align="center">📊 GitHub Stats: </h2>
 <div align=center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrdH7940&show_icons=true&locale=en&theme=react" alt="BrdH7940" />
-  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=BrdH7940&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrdH7940&theme=react&show_icons=true&hide_border=true&count_private=true" alt="BrdH7940" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrdH7940&theme=react&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 <!--
