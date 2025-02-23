@@ -50,11 +50,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
-<h2 align="center">📊 GitHub Stats: </h2>
-<div align=center>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=BrdH7940&theme=react&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=BrdH7940&theme=react&show_icons=true&hide_border=true&count_private=true)"/>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=BrdH7940&theme=react&show_icons=true&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=BrdH7940&theme=react&show_icons=true&hide_border=true&layout=compact)"/>
-</div>
+<h2 align="center">📊 GitHub Stats:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrdH7940&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="BrdH7940's Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrdH7940&theme=react&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" alt="BrdH7940's Top Languages"/>
+</p>
+
 
 <!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
