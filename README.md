@@ -15,9 +15,9 @@
 
 ## About Me
 
-#### 🔭 I’m currently an undergraduate majored in Computer Science at **VNU-HCM University of Science**
+#### 🔭 I’m currently an undergraduate majoring in Artificial Intelligence at **VNU-HCM University of Science**
 
-#### 🎯 My goal is to become a scientist in **Computer Vision**
+#### 🎯 My goal is to become an AI Engineer and a scientist in **Computer Vision**
 
 #### 🎧 I enjoy listening to music
 
