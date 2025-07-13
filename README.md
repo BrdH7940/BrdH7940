@@ -6,18 +6,15 @@
 
 
 <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/huy-l%C3%AA-501b24287/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/huy-le-501b24287/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://leetcode.com/u/BrdH7940/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
-    <code><a href="https://www.deep-ml.com/profile/4G93o3lvKaTWYewmLvQZt4LQBjz1" title="Deep-ML Profile"><img width="22" src="images/deepml.svg"> Deep-ML</a></code>
 </h5>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=BrdH7940&style=for-the-badge"> </a>
 
 ## About Me
 
-#### 🔭 I’m currently an undergraduate majoring in Artificial Intelligence at **VNU-HCM University of Science**
-
-#### 🎯 My goal is to become an AI Engineer and a scientist in **Computer Vision**
+#### 🔭 I’m currently an undergraduate majoring in Artificial Intelligence at **VNU-HCM University of Science**. My goal is to become an AI Engineer and a scientist in **Multimodal AI**.
 
 #### 🎧 I enjoy listening to music
 
@@ -25,7 +22,7 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
-
+<!--
 <h2 align="center">💻 Tech Stack: </h2>
 
 <h3>📘 Languages </h3>
@@ -50,6 +47,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+-->
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
